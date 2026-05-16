@@ -12,7 +12,7 @@ for managing and organizing color data directly from any Windows display.
 
 Mesut Akcan
 -----------
-github.com/akcansoft
+github.com/mesutakcan
 mesutakcan.blogspot.com
 youtube.com/mesutakcan
 */
@@ -195,7 +195,7 @@ mnu_Help.Add(menuText.About, About)
 mnu_Help.Add(menuText.Shortcuts, ShowShortcuts)
 mnu_Help.Add() ; Separator
 mnu_Help.Add(menuText.Website, (*) => Run("https://mesutakcan.blogspot.com"))
-mnu_Help.Add(menuText.GitHubRepo, (*) => Run("https://github.com/akcansoft/Pixel-Color"))
+mnu_Help.Add(menuText.GitHubRepo, (*) => Run("https://github.com/akcansoft/AS-Pixel-Color"))
 
 ; Main menu
 mnu_Main := MenuBar()
@@ -904,7 +904,7 @@ About(*) {
 		{} v{}`n
 		©2026 Mesut Akcan 
 		makcan@gmail.com
-		github.com/akcansoft
+		github.com/mesutakcan
 		mesutakcan.blogspot.com
 		youtube.com/mesutakcan
 	)",
