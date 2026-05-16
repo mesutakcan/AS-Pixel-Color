@@ -3,12 +3,12 @@
 [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey_v2-green.svg)](https://www.autohotkey.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-GPL_v3-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.5-brightgreen.svg)](https://github.com/mesutakcan/Pixel-Color/releases) 
+[![Version](https://img.shields.io/badge/Version-2.5-brightgreen.svg)](https://github.com/mesutakcan/AS-Pixel-Color/releases) 
 
-![GitHub stars](https://img.shields.io/github/stars/mesutakcan/Pixel-Color?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mesutakcan/Pixel-Color?style=social)
-![GitHub issues](https://img.shields.io/github/issues/mesutakcan/Pixel-Color)
-[![Downloads](https://img.shields.io/github/downloads/mesutakcan/Pixel-Color/total)](https://github.com/mesutakcan/Pixel-Color/releases)
+![GitHub stars](https://img.shields.io/github/stars/mesutakcan/AS-Pixel-Color?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mesutakcan/AS-Pixel-Color?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mesutakcan/AS-Pixel-Color)
+[![Downloads](https://img.shields.io/github/downloads/mesutakcan/AS-Pixel-Color/total)](https://github.com/mesutakcan/AS-Pixel-Color/releases)
 
 **AS Pixel Color** is a professional, open-source real-time pixel color analysis tool built with [AutoHotkey](https://www.autohotkey.com) v2. It provides detailed pixel inspection, multiple color formats, and practical tools for designers, developers, and digital artists.
 
@@ -54,12 +54,12 @@
 
 ### Standalone Version (.exe)
 
-Download and run the `.exe` file for your system from the [releases](https://github.com/mesutakcan/Pixel-Color/releases) page.
+Download and run the `.exe` file for your system from the [releases](https://github.com/mesutakcan/AS-Pixel-Color/releases) page.
 
 ### Running from Source
 
 1. Install [AutoHotkey v2](https://www.autohotkey.com).
-2. Download the source `AS Pixel Color.ahk`, `color_names.ahk` and `app_icon.ico` files from the [src/](https://github.com/mesutakcan/Pixel-Color/tree/main/src) folder.
+2. Download the source `AS Pixel Color.ahk`, `color_names.ahk` and `app_icon.ico` files from the [src/](https://github.com/mesutakcan/AS-Pixel-Color/tree/main/src) folder.
 3. Place required files in the same directory.
 4. Run the script by double-clicking the `AS Pixel Color.ahk` file.
 
@@ -119,4 +119,4 @@ YouTube: [YouTube Channel](https://www.youtube.com/mesutakcan)
 
 ## 🤝 Contributing
 
-Contributions are welcome. Open a [pull request](https://github.com/mesutakcan/Pixel-Color/pulls) or submit an [issue](https://github.com/mesutakcan/Pixel-Color/issues) to suggest features or report bugs.
+Contributions are welcome. Open a [pull request](https://github.com/mesutakcan/AS-Pixel-Color/pulls) or submit an [issue](https://github.com/mesutakcan/AS-Pixel-Color/issues) to suggest features or report bugs.
