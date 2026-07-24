@@ -14,6 +14,10 @@
 
 ![App Screen Shot](/docs/app_screen_shot_1.png)
 
+**Watch on YouTube:** https://youtu.be/f9HV91rllo4
+
+<a href="https://youtu.be/f9HV91rllo4"><img src="https://img.youtube.com/vi/f9HV91rllo4/maxresdefault.jpg"  alt="AS Pixel Color - YouTube Demo" width="700"></a>
+
 ## 🌟 Key Features
 
 - **Integrated Color Palette:** Save sampled colors to a persistent palette. Supports up to 52 colors with automatic persistence across sessions.
